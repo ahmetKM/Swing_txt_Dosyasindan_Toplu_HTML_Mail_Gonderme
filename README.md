@@ -1,0 +1,1 @@
+# Swing_txt_Dosyasindan_Toplu_HTML_Mail_Gonderme
